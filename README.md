@@ -59,9 +59,4 @@ Found link: https://example.com/contact
 - **jsoup.jar**: The Jsoup library used for parsing HTML.
 
 ## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-Let me know if there are any specific details or sections you'd like to add or modify!
+This project is licensed under the MIT License.
