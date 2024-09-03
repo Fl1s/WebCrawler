@@ -1,9 +1,4 @@
-Here's the documentation for your **WebCrawler** project:
-
----
-
 # WebCrawler
-
 **WebCrawler** is a Java-based console application designed to crawl web pages and extract relevant information. The program leverages the Jsoup library to parse and traverse HTML documents.
 
 ## Features
